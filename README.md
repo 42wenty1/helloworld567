@@ -1,5 +1,7 @@
 #include<stdio.h>
 void main()
 {
-print("hello world...!!!);
+printf("hello world...!!!);
+
+printf("\nThis is the basic c prograam");
 }
